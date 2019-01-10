@@ -2,7 +2,7 @@
 A custom designed telnet controller for android that was created and awarded for creativity to control and communicate with the mars rover for CPR E 288 at ISU.
 
 <p align="center">
-  <img src="./readme-src/ss-1.png" alt="[placeholder for screenshot]" height = "1000">
+  <img src="./readme-src/ss-1.png" alt="[placeholder for screenshot]" height = "500">
 </p>
 
 ## Additional Information
